@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uploud/static/css/main.d20202a4.css",
+    "main.js": "/uploud/static/js/main.ba39e49f.js",
+    "index.html": "/uploud/index.html",
+    "main.d20202a4.css.map": "/uploud/static/css/main.d20202a4.css.map",
+    "main.ba39e49f.js.map": "/uploud/static/js/main.ba39e49f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.ba39e49f.js"
+  ]
+}
